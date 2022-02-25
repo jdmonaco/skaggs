@@ -4,13 +4,13 @@
 
 <p>&nbsp;</p>
 
-# skaggs
+# skaggs [Work In Progress]
 
 The `skaggs` package supports the import, storage, data structures, preprocessing, and analysis of neurobehavioral datasets of the type produced by rodent spatial navigation (e.g., place cell) experiments, for cluster-sorted single-unit data and 2D head-position trajectories. Data analysis functionality includes both signal processing and information theoretic calculations.
 
 ## Origin
 
-This code was used to conduct the data analysis of hippocampal and subcortical recording data presented in this paper:
+This code was used to conduct the analysis of hippocampal and subcortical recordings and position-tracking data presented in this paper:
 
 * Monaco JD, De Guzman RM, Blair HT, and Zhang K. (2019). [Spatial synchronization codes from coupled rate-phase neurons](https://dx.doi.org/10.1371/journal.pcbi.1006741). *PLOS Computational Biology*, **15**(1), e1006741. doi:&nbsp;[10.1371/journal.pcbi.1006741](https://dx.doi.org/10.1371/journal.pcbi.1006741)
 
