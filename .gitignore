@@ -1,0 +1,63 @@
+# OS/System files to ignore
+._*
+.DS_Store
+Thumbs.db
+.AppleDouble
+.LSOverride
+Icon
+.AppleDB
+.AppleDesktop
+
+# Project files to ignore
+Session.vim
+runfile
+*.taskpaper
+.idea/
+.vscode/
+*.code-workspace
+
+# Python files
+*.py[cod]
+__pycache__/
+*.egg-info/
+.ipynb_checkpoints/
+.cache/
+
+# Always-ignore extensions
+*~
+*.bak
+*.diff
+*.err
+*.log
+*.orig
+*.pyc
+*.rej
+*.sass-cache
+*.sw?
+*.vi
+*.tar.gz
+*.zip
+*.ai
+*.pages/
+*.numbers/
+*.key/
+*.rtf
+*.odt
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.tmproj
+*.out
+*.a
+
+# Ignore temp/stash/build directories
+old/
+trash/
+scratch/
+dist/
+build/
+temp/
+Temp/
+tmp/
+Tmp/
